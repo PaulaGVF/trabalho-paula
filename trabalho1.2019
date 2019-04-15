@@ -6,7 +6,7 @@ Professor: Alex Salgado
 Com relação aos comandos do SO Linux, responda as perguntas abaixo:
 
 
-0 - Após o comando clone, vá para a pasta labso.2019.trab.av1 (esta será a pasta principal da prova)
+0 - Após o comando clone, vá para a pasta seunome.labso.meutrabalho (esta será a pasta principal da prova)
 
 1. Crie 3 pastas com nomes de pasta1, pasta2 e pasta3
 (Cole aqui o(s) comandos utilizados)
@@ -35,6 +35,8 @@ Resposta2 (numero de diretórios encontrados) :
 7.listar o conteúdo de seu diretório e direcionar a saída para o primeiro arquivo do item 4
 (Cole aqui o(s) comandos utilizados)
 
+
+8.Mostre o conteudo do arquivo ultimocomando.txt e siga as instruções dele
 
 
 

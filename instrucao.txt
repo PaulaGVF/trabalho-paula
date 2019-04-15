@@ -1,0 +1,17 @@
+Instrução para o trabalho
+
+1- Crie um repositorio no github com o nome abaixo (não esqueça de marcar a opção de criar readme) :
+ seunome.labso.meutrabalho
+1.1 - Faça o clone do seu repositorio na maquina linux 
+ 
+2- Execute o comando abaixo para baixar seu trabalho:
+git clone https://github.com/salgado/labso.2019.trab.av1.git
+
+3- Copie os 2 arquivos (trabalho1.txt e ultimocomando.txt) para o seu repositorio (item 1)
+
+4- Entre na pasta do seu repositorio (seunome.labso.meutrabalho)
+
+5-Inicie o trabalho seguindo as instruções do arquivo trabalho1.txt
+
+!! Bom trabalho
+
